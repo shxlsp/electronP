@@ -1,0 +1,10 @@
+{
+    "name": "electronp",
+    "version": "0.0.1",
+    "main": "app.js",
+    "productName": "prodname",
+    "description": "ddesc",
+    "private": true,
+    "author": "shx",
+    "homepage": "url"
+}
